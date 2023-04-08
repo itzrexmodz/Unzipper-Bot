@@ -9,3 +9,5 @@ aiohttp
 aiofiles
 Pillow
 gofile2
+flask
+flask_restful
