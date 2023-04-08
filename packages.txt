@@ -1,0 +1,3 @@
+zstd 
+p7zip 
+gcc
